@@ -1,0 +1,12 @@
+body {
+
+    background-color: aquamarine;
+    /* font-style:oblique; */
+    font-family: cursive;
+}
+h1{ 
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
