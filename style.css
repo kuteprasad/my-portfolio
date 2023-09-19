@@ -1,12 +1,31 @@
 body {
-
-    background-color: aquamarine;
-    /* font-style:oblique; */
-    font-family: cursive;
+  background-color: aquamarine;
+  /* font-style:oblique; */
+  font-family: cursive;
 }
-h1{ 
-    text-align: center;
+h1 {
+  text-align: center;
 }
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
+
+.myphoto {
+  background-color: black;
+  color: white;
+}
+.myphoto-profile {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 25%;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+#myphoto {
+  width: fit-content;
+  border: 5px solid white;
+}
+#heading {
+  text-transform: uppercase;
+}
+
